@@ -1,3 +1,5 @@
+type time_data_file;
+
 allow vendor_init {
   audio_data_file
   bluetooth_data_file
